@@ -1,0 +1,2 @@
+# newGitTest
+HI THIS IS MY README
